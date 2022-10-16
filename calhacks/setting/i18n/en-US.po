@@ -1,0 +1,5 @@
+msgid "addDeck"
+msgstr "ADD WORD"
+
+msgid "delete"
+msgstr "DELETE"
